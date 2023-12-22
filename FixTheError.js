@@ -19,3 +19,4 @@ return x * x ;
         function square3 (x)  { 
             return x * x;
             }
+---------------------------------------
